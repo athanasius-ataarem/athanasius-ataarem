@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="210" viewBox="0 0 846 210" role="img" aria-label="Engineering at a glance across public and private repositories">
+  <style>
+    .title { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; }
+    .sub   { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .num   { font: 700 30px 'Segoe UI', Ubuntu, sans-serif; fill: #34d399; }
+    .lbl   { font: 500 11.5px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .lbl2  { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  </style>
+  <rect width="846" height="210" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <text x="28" y="38" class="title">Engineering at a glance</text>
+  <text x="818" y="38" text-anchor="end" class="sub">measured across public + private repositories · July 2026</text>
+
+  <line x1="28" y1="52" x2="818" y2="52" stroke="#21262d" stroke-width="1"/>
+
+  <!-- stat tiles -->
+  <g>
+    <text x="28"  y="102" class="num">2</text>
+    <text x="28"  y="124" class="lbl">production systems</text>
+    <text x="28"  y="139" class="lbl2">live &amp; operated solo</text>
+
+    <text x="192" y="102" class="num">219</text>
+    <text x="192" y="124" class="lbl">automated tests</text>
+    <text x="192" y="139" class="lbl2">green on every deploy</text>
+
+    <text x="356" y="102" class="num">26</text>
+    <text x="356" y="124" class="lbl">architecture decisions</text>
+    <text x="356" y="139" class="lbl2">recorded as ADRs</text>
+
+    <text x="520" y="102" class="num">84.6%</text>
+    <text x="520" y="124" class="lbl">TypeScript</text>
+    <text x="520" y="139" class="lbl2">of ~1.9 MB of code</text>
+
+    <text x="684" y="102" class="num">30</text>
+    <text x="684" y="124" class="lbl">days: idea → production</text>
+    <text x="684" y="139" class="lbl2">leave portal, Jul 2026</text>
+  </g>
+
+  <line x1="28" y1="158" x2="818" y2="158" stroke="#21262d" stroke-width="1"/>
+
+  <!-- commit sparkline: last 12 weeks, max 37 -->
+  <text x="28" y="186" class="lbl2">weekly commits, all repos — last 12 weeks:</text>
+  <g fill="#238636">
+    <rect x="268" y="192" width="14" height="2"  fill="#21262d"/>
+    <rect x="290" y="192" width="14" height="2"  fill="#21262d"/>
+    <rect x="312" y="192" width="14" height="2"  fill="#21262d"/>
+    <rect x="334" y="192" width="14" height="2"  fill="#21262d"/>
+    <rect x="356" y="188" width="14" height="6"/>
+    <rect x="378" y="192" width="14" height="2"  fill="#21262d"/>
+    <rect x="400" y="192" width="14" height="2"  fill="#21262d"/>
+    <rect x="422" y="156" width="14" height="38" fill="#34d399"/>
+    <rect x="444" y="192" width="14" height="2"  fill="#21262d"/>
+    <rect x="466" y="189" width="14" height="5"/>
+    <rect x="488" y="188" width="14" height="6"/>
+    <rect x="510" y="156" width="14" height="38" fill="#34d399"/>
+  </g>
+  <text x="540" y="186" class="lbl2">→ shipped v1 &amp; post-launch iterations</text>
+</svg>

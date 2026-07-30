@@ -8,6 +8,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=athanasius-ataarem&color=059669&style=for-the-badge&label=PROFILE+VIEWS)
 
+<img width="100%" src="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/main/assets/at-a-glance.svg" alt="Engineering at a glance — production systems, tests, ADRs, TypeScript share, commit activity" />
+
 I design, build, and **operate** production web systems end to end — from the first
 line of TypeScript to the Ubuntu VM they run on.
 
@@ -62,15 +64,10 @@ off-site backups with tested restore drills).
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athanasius-ataarem&theme=github_dark" alt="GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athanasius-ataarem&theme=github_dark&utcOffset=0" alt="Commit time distribution" />
-
 <img height="165" src="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/main/assets/languages.svg" alt="Languages across all projects including private" />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=athanasius-ataarem&theme=github-compact&hide_border=true" alt="Contribution graph" />
-
-*Most of my work lives in private production repositories — the contribution
-graph reflects that; code access is available on request.*
+*Most of my work lives in private production repositories — the public
+contribution graph reflects that; code access is available on request.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/output/github-snake.svg" />
