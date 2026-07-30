@@ -3,10 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:065f46&height=190&section=header&text=Athanasius%20Adaawon%20Ataarem&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Ghana&descSize=17&descAlignY=57" alt="banner" />
 
 <a href="https://github.com/athanasius-ataarem">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=10B981&center=true&vCenter=true&width=560&lines=I+build+and+operate+production+systems+end+to+end;TypeScript+%C2%B7+Node+%C2%B7+React+%C2%B7+Prisma+%C2%B7+PostgreSQL;From+the+first+commit+to+the+VM+it+runs+on" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=10B981&center=true&vCenter=true&width=680&lines=I+build+and+operate+production+systems+end+to+end;TypeScript+%C2%B7+Node+%C2%B7+React+%C2%B7+Prisma+%C2%B7+PostgreSQL;From+the+first+commit+to+the+VM+it+runs+on" alt="typing intro" />
 </a>
-
-![Profile views](https://komarev.com/ghpvc/?username=athanasius-ataarem&color=059669&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img width="100%" src="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/main/assets/at-a-glance.svg" alt="Engineering at a glance — production systems, tests, ADRs, TypeScript share, commit activity" />
 
