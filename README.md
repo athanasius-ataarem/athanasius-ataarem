@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:065f46&height=190&section=header&text=Athanasius%20Adaawon%20Ataarem&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Ghana&descSize=17&descAlignY=57" alt="banner" />
 
+<a href="https://github.com/athanasius-ataarem">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=10B981&center=true&vCenter=true&width=560&lines=I+build+and+operate+production+systems+end+to+end;TypeScript+%C2%B7+Node+%C2%B7+React+%C2%B7+Prisma+%C2%B7+PostgreSQL;From+the+first+commit+to+the+VM+it+runs+on" alt="typing intro" />
+</a>
+
+![Profile views](https://komarev.com/ghpvc/?username=athanasius-ataarem&color=059669&style=for-the-badge&label=PROFILE+VIEWS)
+
 I design, build, and **operate** production web systems end to end — from the first
 line of TypeScript to the Ubuntu VM they run on.
 
@@ -64,6 +70,11 @@ off-site backups with tested restore drills).
 *Most of my work lives in private production repositories — the contribution
 graph reflects that; code access is available on request.*
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/output/github-snake.svg" />
+  <img width="92%" src="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/output/github-snake-light.svg" alt="contribution snake" />
+</picture>
+
 </div>
 
 ## 📫 Get in touch
@@ -72,6 +83,8 @@ graph reflects that; code access is available on request.*
 
 [![Email](https://img.shields.io/badge/ataarem%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataarem@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ataarem-athanasius)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:0f766e&height=100&section=footer" alt="footer" />
 
