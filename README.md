@@ -65,8 +65,7 @@ off-site backups with tested restore drills).
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athanasius-ataarem&theme=github_dark" alt="GitHub stats" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athanasius-ataarem&theme=github_dark&utcOffset=0" alt="Commit time distribution" />
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athanasius-ataarem&theme=github_dark" alt="Top languages by repo" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athanasius-ataarem&theme=github_dark" alt="Top languages by commit" />
+<img height="165" src="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/main/assets/languages.svg" alt="Languages across all projects including private" />
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=athanasius-ataarem&theme=github-compact&hide_border=true" alt="Contribution graph" />
 

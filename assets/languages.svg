@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Languages across all repositories including private">
+  <style>
+    .title { font: 600 15px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; }
+    .sub   { font: 400 10.5px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .lang  { font: 500 12px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .pct   { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  </style>
+  <rect width="495" height="195" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <text x="24" y="32" class="title">Languages — all projects</text>
+  <text x="24" y="49" class="sub">measured across public + private production repositories · July 2026</text>
+
+  <!-- stacked bar: total width 447, x from 24 -->
+  <g>
+    <rect x="24"    y="62" width="378.2" height="10" rx="5" fill="#3178c6"/>
+    <rect x="402.2" y="62" width="42.5"  height="10" fill="#f1e05a"/>
+    <rect x="444.7" y="62" width="8.9"   height="10" fill="#e34c26"/>
+    <rect x="453.6" y="62" width="6.7"   height="10" fill="#563d7c"/>
+    <rect x="460.3" y="62" width="6.3"   height="10" fill="#336790"/>
+    <rect x="466.6" y="62" width="4.4"   height="10" rx="2" fill="#89e051"/>
+  </g>
+
+  <!-- legend: two columns -->
+  <g>
+    <circle cx="32" cy="98" r="5" fill="#3178c6"/>
+    <text x="44" y="102" class="lang">TypeScript</text>
+    <text x="126" y="102" class="pct">84.6%</text>
+
+    <circle cx="32" cy="126" r="5" fill="#f1e05a"/>
+    <text x="44" y="130" class="lang">JavaScript</text>
+    <text x="126" y="130" class="pct">9.5%</text>
+
+    <circle cx="32" cy="154" r="5" fill="#e34c26"/>
+    <text x="44" y="158" class="lang">HTML</text>
+    <text x="126" y="158" class="pct">2.0%</text>
+
+    <circle cx="262" cy="98" r="5" fill="#563d7c"/>
+    <text x="274" y="102" class="lang">CSS</text>
+    <text x="356" y="102" class="pct">1.5%</text>
+
+    <circle cx="262" cy="126" r="5" fill="#336790"/>
+    <text x="274" y="130" class="lang">PLpgSQL</text>
+    <text x="356" y="130" class="pct">1.4%</text>
+
+    <circle cx="262" cy="154" r="5" fill="#89e051"/>
+    <text x="274" y="158" class="lang">Shell</text>
+    <text x="356" y="158" class="pct">0.9%</text>
+  </g>
+</svg>
