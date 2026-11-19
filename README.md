@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=10B981&center=true&vCenter=true&width=680&lines=I+build+and+operate+production+systems+end+to+end;TypeScript+%C2%B7+Node+%C2%B7+React+%C2%B7+PostgreSQL;Payments%2C+SMS+%26+offline-first+apps+for+Ghana" alt="typing intro" />
 </a>
 
-<img width="100%" src="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/main/assets/at-a-glance.svg" alt="Engineering at a glance: 5 production systems, 2,300+ automated tests, 1,900+ commits since June 2026, 83% TypeScript" />
+<img width="100%" src="https://raw.githubusercontent.com/athanasius-ataarem/athanasius-ataarem/main/assets/at-a-glance.svg" alt="Engineering at a glance: 7 systems built (6 live), 2,300+ automated tests, 1,900+ commits since June 2026, 83% TypeScript" />
 
 I design, build, and **operate** production systems end to end, from the database
 schema to the server they run on.

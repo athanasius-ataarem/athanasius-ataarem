@@ -17,9 +17,9 @@
 
   <!-- stat tiles -->
   <g>
-    <text x="28"  y="102" class="num">5</text>
-    <text x="28"  y="124" class="lbl">production systems</text>
-    <text x="28"  y="139" class="lbl2">live &amp; operated solo</text>
+    <text x="28"  y="102" class="num">7</text>
+    <text x="28"  y="124" class="lbl">systems built</text>
+    <text x="28"  y="139" class="lbl2">6 live, all operated solo</text>
 
     <text x="192" y="102" class="num">2,300+</text>
     <text x="192" y="124" class="lbl">automated tests</text>
